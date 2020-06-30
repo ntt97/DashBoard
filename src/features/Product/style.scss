@@ -1,0 +1,20 @@
+.section-add-product {
+    border: 1px solid #dcdcdb;
+    border-radius: 4px;
+}
+.section-show-info {
+    position: fixed;
+    z-index: 20;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    background-color: white;
+    overflow-y: scroll;
+}
+.btn-close-edit {
+    position: absolute;
+    right: -35px;
+    top: -35px;
+}
